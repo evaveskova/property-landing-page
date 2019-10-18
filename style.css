@@ -1,1 +1,38 @@
+body {
+  background-color: #fcfdff;
+}
 
+.navbar {
+  background-color: #fcfdff;
+  font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;
+  padding: 3px;
+  display: inline;
+}
+
+.navbar h1 {
+  font-size: 18px;
+  color: #02457c;
+  float: left;
+  margin-left: 60px;
+  margin-top: 60px;
+}
+
+.navbar ul{
+  margin-top: 60px;
+  margin-right: 60px;
+  font-size: 12px;
+  text-decoration: none;
+  float: right;
+  display: inline;
+}
+
+.navbar li {
+  list-style-type: none;
+  padding: 18px;
+  display: inline;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #3d3e48;
+}
